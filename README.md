@@ -12,3 +12,9 @@ Set up Project with GitHub and VScode.
 CI/CD Pipelines - Github Actions
 Deployment - AWS 
 Coderunner 
+
+Step-1 : Set Up the GitHub {Repository}
+a) New Environment
+    conda create -p venv python==3.8 -y
+b) setup.py
+c) requirements.txt
